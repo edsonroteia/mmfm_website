@@ -17,7 +17,7 @@ const speakers = [
     name: "Hadar Averbuch-Elor",
     affiliation: "Cornell University",
     bio: "Assistant Professor focused on graphics and vision with structured modalities.",
-    link: "https://www.cs.cornell.edu/~hadarelor/",
+    link: "https://www.hadarelor.com/",
     image: "./assets/speakers/hadar.jpg"
   },
   {
