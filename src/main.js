@@ -38,7 +38,7 @@ const organizers = [
   { name: "Dantong Niu", affiliation: "UC Berkeley", link: "https://dantong88.github.io/", image: "./assets/organizers/dantong.jpeg" },
   { name: "Jiaxin Ge", affiliation: "UC Berkeley", link: "https://gejiaxin.org/", image: "./assets/organizers/jiaxin.jpg" },
   { name: "Eli Schwartz", affiliation: "IBM Research / TAU", link: "https://eli-schwartz.com/", image: "./assets/organizers/eli.jpg" },
-  { name: "Nimrod Shabtay", affiliation: "Tel Aviv University", link: "https://www.linkedin.com/in/nimrod-shabtay/", image: "./assets/organizers/nimrod.jpeg" },
+  { name: "Nimrod Shabtay", affiliation: "IBM Reasearch / Tel-Aviv University", link: "https://www.linkedin.com/in/nimrod-shabtay/", image: "./assets/organizers/nimrod.jpeg" },
   { name: "Sivan Doveh", affiliation: "Stanford University", link: "https://sivandoveh.github.io/", image: "./assets/organizers/sivan.jpeg" },
   { name: "Jehanzeb Mirza", affiliation: "MIT CSAIL", link: "https://jmiemirza.github.io/", image: "./assets/organizers/mirza.png" },
   { name: "Rogerio Feris", affiliation: "MIT-IBM Lab", link: "http://www.rogerioferis.org", image: "./assets/organizers/rogerio.avif" },
