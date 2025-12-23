@@ -25,7 +25,7 @@ const speakers = [
     affiliation: "UC Berkeley",
     bio: "Professor and co-lead of BAIR lab, pioneer in computer vision and multimodal learning.",
     link: "https://people.eecs.berkeley.edu/~trevor/",
-    image: "./assets/speakers/trevor.png"
+    image: "./assets/speakers/trevor_v2.png"
   }
 ];
 
