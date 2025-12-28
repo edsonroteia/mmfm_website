@@ -126,6 +126,7 @@ h3,
     text-decoration: none;
     font-weight: 500;
     font-size: 0.95rem;
+    white-space: nowrap;
 }
 
 /* Hero Section */
@@ -134,7 +135,8 @@ h3,
     min-height: 40vh;
     display: flex;
     align-items: center;
-    padding-top: var(--header-height);
+    padding-top: calc(var(--header-height) + 1rem);
+    padding-bottom: 1rem;
     color: white;
     overflow: hidden;
 }
@@ -668,8 +670,9 @@ h3,
     }
 
     .nav-workshop-tag {
-        display: none;
-        /* Hide tag on small mobile to save space */
+        display: flex;
+        font-size: 0.75rem;
+        padding: 0.35rem 0.75rem;
     }
 
     .mobile-menu-btn {
